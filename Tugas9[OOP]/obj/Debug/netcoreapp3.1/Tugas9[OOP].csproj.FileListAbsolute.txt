@@ -1,0 +1,13 @@
+C:\Users\Tatletale\source\repos\Tugas9[OOP]\Tugas9[OOP]\bin\Debug\netcoreapp3.1\Tugas9[OOP].exe
+C:\Users\Tatletale\source\repos\Tugas9[OOP]\Tugas9[OOP]\bin\Debug\netcoreapp3.1\Tugas9[OOP].deps.json
+C:\Users\Tatletale\source\repos\Tugas9[OOP]\Tugas9[OOP]\bin\Debug\netcoreapp3.1\Tugas9[OOP].runtimeconfig.json
+C:\Users\Tatletale\source\repos\Tugas9[OOP]\Tugas9[OOP]\bin\Debug\netcoreapp3.1\Tugas9[OOP].runtimeconfig.dev.json
+C:\Users\Tatletale\source\repos\Tugas9[OOP]\Tugas9[OOP]\bin\Debug\netcoreapp3.1\Tugas9[OOP].dll
+C:\Users\Tatletale\source\repos\Tugas9[OOP]\Tugas9[OOP]\bin\Debug\netcoreapp3.1\Tugas9[OOP].pdb
+C:\Users\Tatletale\source\repos\Tugas9[OOP]\Tugas9[OOP]\obj\Debug\netcoreapp3.1\Tugas9[OOP].csprojAssemblyReference.cache
+C:\Users\Tatletale\source\repos\Tugas9[OOP]\Tugas9[OOP]\obj\Debug\netcoreapp3.1\Tugas9[OOP].AssemblyInfoInputs.cache
+C:\Users\Tatletale\source\repos\Tugas9[OOP]\Tugas9[OOP]\obj\Debug\netcoreapp3.1\Tugas9[OOP].AssemblyInfo.cs
+C:\Users\Tatletale\source\repos\Tugas9[OOP]\Tugas9[OOP]\obj\Debug\netcoreapp3.1\Tugas9[OOP].csproj.CoreCompileInputs.cache
+C:\Users\Tatletale\source\repos\Tugas9[OOP]\Tugas9[OOP]\obj\Debug\netcoreapp3.1\Tugas9[OOP].dll
+C:\Users\Tatletale\source\repos\Tugas9[OOP]\Tugas9[OOP]\obj\Debug\netcoreapp3.1\Tugas9[OOP].pdb
+C:\Users\Tatletale\source\repos\Tugas9[OOP]\Tugas9[OOP]\obj\Debug\netcoreapp3.1\Tugas9[OOP].genruntimeconfig.cache
